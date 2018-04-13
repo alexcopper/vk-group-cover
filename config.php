@@ -8,7 +8,7 @@ $config = [
     'service_token'   => '',
     'access_token' => '11c3081c58681d0e432164d6e1577f65451b97b5dc0debd7a0fa2db7697053bd512d6c012c5fc994c55ef',
 
-    'group_id'   => 149619624,
+    'group_id'   => 155042523,
     'background' => 'background.jpg',
     'like_interval' => [
         'from' => '01.07.2017 00:00:00',
