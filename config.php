@@ -4,7 +4,7 @@ require "src/VkGroup.php";
 
 
 $config = [
-    'confirmation_token' => '',
+    'confirmation_token' => '4e5c0845',
     'service_token'   => '',
     'access_token' => '11c3081c58681d0e432164d6e1577f65451b97b5dc0debd7a0fa2db7697053bd512d6c012c5fc994c55ef',
 
